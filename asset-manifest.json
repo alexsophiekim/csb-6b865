@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "https://.github.io/csb-6b865/static/css/main.0420a388.chunk.css",
-    "main.js": "https://.github.io/csb-6b865/static/js/main.282fba62.chunk.js",
-    "main.js.map": "https://.github.io/csb-6b865/static/js/main.282fba62.chunk.js.map",
-    "runtime-main.js": "https://.github.io/csb-6b865/static/js/runtime-main.ea656c49.js",
-    "runtime-main.js.map": "https://.github.io/csb-6b865/static/js/runtime-main.ea656c49.js.map",
-    "static/js/2.bf78509c.chunk.js": "https://.github.io/csb-6b865/static/js/2.bf78509c.chunk.js",
-    "static/js/2.bf78509c.chunk.js.map": "https://.github.io/csb-6b865/static/js/2.bf78509c.chunk.js.map",
-    "index.html": "https://.github.io/csb-6b865/index.html",
-    "static/css/main.0420a388.chunk.css.map": "https://.github.io/csb-6b865/static/css/main.0420a388.chunk.css.map",
-    "static/js/2.bf78509c.chunk.js.LICENSE.txt": "https://.github.io/csb-6b865/static/js/2.bf78509c.chunk.js.LICENSE.txt",
-    "static/media/arrow-left.fdc05436.svg": "https://.github.io/csb-6b865/static/media/arrow-left.fdc05436.svg",
-    "static/media/arrow-right.0d844425.svg": "https://.github.io/csb-6b865/static/media/arrow-right.0d844425.svg",
-    "static/media/image1.808833ab.jpeg": "https://.github.io/csb-6b865/static/media/image1.808833ab.jpeg",
-    "static/media/image2.d6e2aa99.jpeg": "https://.github.io/csb-6b865/static/media/image2.d6e2aa99.jpeg",
-    "static/media/image3.68c54325.jpeg": "https://.github.io/csb-6b865/static/media/image3.68c54325.jpeg",
-    "static/media/image4.a508b42c.jpeg": "https://.github.io/csb-6b865/static/media/image4.a508b42c.jpeg",
-    "static/media/image5.b53cf11e.jpeg": "https://.github.io/csb-6b865/static/media/image5.b53cf11e.jpeg",
-    "static/media/image6.03053c00.jpeg": "https://.github.io/csb-6b865/static/media/image6.03053c00.jpeg"
+    "main.css": "https://alexsophiekim.github.io/csb-6b865/static/css/main.0420a388.chunk.css",
+    "main.js": "https://alexsophiekim.github.io/csb-6b865/static/js/main.669213cb.chunk.js",
+    "main.js.map": "https://alexsophiekim.github.io/csb-6b865/static/js/main.669213cb.chunk.js.map",
+    "runtime-main.js": "https://alexsophiekim.github.io/csb-6b865/static/js/runtime-main.7d9e4165.js",
+    "runtime-main.js.map": "https://alexsophiekim.github.io/csb-6b865/static/js/runtime-main.7d9e4165.js.map",
+    "static/js/2.bf78509c.chunk.js": "https://alexsophiekim.github.io/csb-6b865/static/js/2.bf78509c.chunk.js",
+    "static/js/2.bf78509c.chunk.js.map": "https://alexsophiekim.github.io/csb-6b865/static/js/2.bf78509c.chunk.js.map",
+    "index.html": "https://alexsophiekim.github.io/csb-6b865/index.html",
+    "static/css/main.0420a388.chunk.css.map": "https://alexsophiekim.github.io/csb-6b865/static/css/main.0420a388.chunk.css.map",
+    "static/js/2.bf78509c.chunk.js.LICENSE.txt": "https://alexsophiekim.github.io/csb-6b865/static/js/2.bf78509c.chunk.js.LICENSE.txt",
+    "static/media/arrow-left.fdc05436.svg": "https://alexsophiekim.github.io/csb-6b865/static/media/arrow-left.fdc05436.svg",
+    "static/media/arrow-right.0d844425.svg": "https://alexsophiekim.github.io/csb-6b865/static/media/arrow-right.0d844425.svg",
+    "static/media/image1.808833ab.jpeg": "https://alexsophiekim.github.io/csb-6b865/static/media/image1.808833ab.jpeg",
+    "static/media/image2.d6e2aa99.jpeg": "https://alexsophiekim.github.io/csb-6b865/static/media/image2.d6e2aa99.jpeg",
+    "static/media/image3.68c54325.jpeg": "https://alexsophiekim.github.io/csb-6b865/static/media/image3.68c54325.jpeg",
+    "static/media/image4.a508b42c.jpeg": "https://alexsophiekim.github.io/csb-6b865/static/media/image4.a508b42c.jpeg",
+    "static/media/image5.b53cf11e.jpeg": "https://alexsophiekim.github.io/csb-6b865/static/media/image5.b53cf11e.jpeg",
+    "static/media/image6.03053c00.jpeg": "https://alexsophiekim.github.io/csb-6b865/static/media/image6.03053c00.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ea656c49.js",
+    "static/js/runtime-main.7d9e4165.js",
     "static/js/2.bf78509c.chunk.js",
     "static/css/main.0420a388.chunk.css",
-    "static/js/main.282fba62.chunk.js"
+    "static/js/main.669213cb.chunk.js"
   ]
 }
